@@ -2,3 +2,4 @@ Zinc is a web framework written in pure Zig with a focus on high performance, us
 # guard against empty input
 # drop an unused branch
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
