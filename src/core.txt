@@ -12,3 +12,4 @@ Zinc is a web framework written in pure Zig with a focus on high performance, us
 # handle the edge case from the last release
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
